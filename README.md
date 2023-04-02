@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Shreyas Udaya
-- 👀 I’m interested in Machine Learning, Imaging Software and Computing.
-- 🌱 I’m currently learning DSA.
-- 💞️ I’m looking to collaborate on projects involving above.
 - 📫 How to reach me: Email:shreyasudaya03@gmail.com
+-                      Phone:+91 7022053251
 
 <!---
 shreyasudaya/shreyasudaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
